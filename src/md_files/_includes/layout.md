@@ -24,6 +24,9 @@
 
 </style>
 <body style="background-color:#FFC7D5;font-family:verdana;color:#450920;height:100%">
+<link rel="icon" href="/assets/favicons/himafava.png">
+  <title>olivemoment</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
 
 <header id="site_header">
 

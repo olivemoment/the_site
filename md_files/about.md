@@ -1,3 +1,5 @@
+<body style="background-color:#FFD1D7;font-family:verdana">  
+
 # olivemoment activities
 
 hi there nice to meet you c: i'm olive sometimes known as olivemoment on social media *except insta and tumblr*  
@@ -27,3 +29,5 @@ himari uehara, tomori takamatsu
 that's it  
 
 [back...](/)
+
+</body>

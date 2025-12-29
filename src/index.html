@@ -7,7 +7,8 @@
   <meta name="description" content="basic website" />
   <link rel="icon" href="favicon.png">
 </head>
-<body>
-  <h1>IF YOU ARE READING THIS, I'VE GOTTEN OFF MY ASS AND MADE A BASIC WEBSITE WITH HTML AND AN ONLINE HOST. HURRAY! THAT DOES NOT MEAN THIS WEBSITE IS ANY GOOD. THIS WEBSITE WILL PROBABLY BE PRETTY BAREBONES FOR A WHILE. STREAM CARAMEL CANDID</h1>
+<body style="background-color:#FFD1D7;font-family:verdana"> 
+  <h1>landing</h1>
+  <p>much to noemie's chagrin I'm going to neglect the aesthetics of the page for a bit and direct you to <a href="/about/index.html">my about me in markdown!</a></p>
 </body>
 </html>

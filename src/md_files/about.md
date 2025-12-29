@@ -1,4 +1,6 @@
-<body style="background-color:#FFD1D7;font-family:verdana">  
+---
+layout: layout.md
+---
 
 # olivemoment activities
 

@@ -3,7 +3,7 @@ layout: layout.md
 ---
   
 
-  <meta name="description" content="quick overview of what i do" />
+  <meta name="description" content="olive olivemoment" />
 
   # landing
   
@@ -13,4 +13,6 @@ layout: layout.md
   
   btw go check out [oomf chans website](https://foid.ca) she is making it using the same resources and setup as me cuz neither of us know what we're doing so we're just ping ponging off each other \^_^ 
   
-  if you think this website is cool and awesome give me a thumbs up through the screen and follow me... MY SOCIAL MEDIAS ARE AVAILABLE ON MY [ABOUT!](/about) yayyyy!!!!!! 
+  if you think this website is cool and awesome give me a thumbs up through the screen and follow me... MY SOCIAL MEDIAS ARE AVAILABLE ON MY [ABOUT!](/about) yayyyy!!!!!!  
+  
+  come check out my [photo album](/album) full of my favorite photos :>

@@ -23,20 +23,21 @@
 }
 
 </style>
-<body style="background-color:#FFC7D5;font-family:verdana;color:#450920;height:100%">
-<link rel="icon" href="/assets/favicons/himafava.png">
-  <title>olivemoment</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
 
+<link rel="icon" href="/assets/favicons/himafava.png">
+<title>olivemoment</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+<body style="background-color:#FFC7D5;font-family:verdana;color:#450920;height:100%">
 <header id="site_header">
 
 # olivemoment   
 ###  "himari uehara enthusiast"  
 
 [take me home!!](/)  
-
-
-</header>
+  
+  
+  </header>
 
 <main>
 

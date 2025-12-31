@@ -49,17 +49,17 @@ layout: layout.md
       <span>camcorder vids</span>
   </a>
   
-  <a href="./favs/" class="box-button">
+  <a href="./photography/" class="box-button">
     <img src="/assets/images/album/icons/picsicon.jpg" alt="photography">
       <span>semi-serious photography</span>
   </a>
   
-  <a href="./favs/" class="box-button">
+  <a href="./sillies/" class="box-button">
     <img src="/assets/images/album/icons/sillicon.jpg" alt="sillies">
       <span>silly time :3</span>
   </a>
   
-  <a href="./favs/" class="box-button">
+  <a href="./suipact/" class="box-button">
     <img src="/assets/images/album/icons/suipicon.png" alt="suipact">
       <span>suipact screenshots</span>
   </a>

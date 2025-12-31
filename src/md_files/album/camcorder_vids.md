@@ -13,14 +13,19 @@ layout: layout.md
 </style>
 
 # camcorder videos  
-
-<hr class=divider>
+  <p> <a href="../">  
+    back...  
+  </a> </p>
 
 <video controls>
   <source src="/assets/videos/album/camcorder/cam1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>  
 
-My YouTube Apology Video  
+my youtube apology video  
 
 <hr class=divider>
+
+  <p> <a href="../">  
+    back...  
+  </a> </p>

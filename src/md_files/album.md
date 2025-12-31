@@ -44,7 +44,7 @@ layout: layout.md
       <span>bandori favs</span>
   </a>
 
-  <a href="./favs/" class="box-button">
+  <a href="./camcorder_vids/" class="box-button">
     <img src="/assets/images/album/icons/camcicon.png" alt="camcorder">
       <span>camcorder vids</span>
   </a>

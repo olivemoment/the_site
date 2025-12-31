@@ -41,6 +41,24 @@ this is my submission for the zohran mamdani i voted sticker contest! i did not 
 i'm almost as normal about the good place as i am mygo...
 
 <hr class=divider>
+
+<img src="/assets/images/album/sillies/silly5.jpg" width=512px alt="silly5">  
+
+Official yuri exists here...!!
+
+<hr class=divider>
+
+<img src="/assets/images/album/sillies/silly6.jpg" width=512px alt="silly6">  
+
+Genuinely this is really funny and nobody gets it RIP Edwin Diaz died to the 9/11 dodgers
+
+<hr class=divider>
+
+<img src="/assets/images/album/sillies/silly7.jpg" width=512px alt="silly7">  
+
+JUAN BINARY!!!
+
+<hr class=divider>
   
   <p> <a href="../">  
     back...  

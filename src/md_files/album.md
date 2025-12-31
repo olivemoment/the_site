@@ -3,7 +3,7 @@ layout: layout.md
 ---
 
 <style>
-#box-button {
+.box-button {
   background-color: #a53860; 
   border: none;           
   color: white;          
@@ -12,16 +12,55 @@ layout: layout.md
   display: inline-block;   
   font-size: 20px;      
   cursor: pointer;        
-  width: 256px;
+  width: 250px;
   border-radius: 10px;
-  height: 256px;
+  height: 250px;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.button-container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.box-button img{
+  width: 144px;
+  height: 144px;
 }
 </style>
 
-hello... these are some of my most prized photos of my unofficial olivemoment collection... feel free to browse...
+<div class=button-container>
+  hello... these are some of my most prized photos of my unofficial olivemoment collection... feel free to browse...
+</div>
 
-<a href="./favs/"><button id=box-button><p>![favs icon](/assets/images/album/icons/favsicon.png)</p>bandori favs </button></a>
-<a href="./camcorder/"><button id=box-button><p>![camcorder icon](/assets/images/album/icons/camcicon.png)</p>camcorder vids</button></a>
-<a href="./photography/"><button id=box-button><p>![photo icon](/assets/images/album/icons/picsicon.jpg)</p>semi-serious photography</button></a>
-<a href="./sillies/"><button id=box-button><p>![silly icon](/assets/images/album/icons/sillicon.jpg)</p>silly time :3</button></a>
-<a href="./suipact/"><button id=box-button><p>![suipact icon](/assets/images/album/icons/suipicon.png)</p>suipact screenshots</button></a><
+<div class=button-container> 
+  <a href="./favs/" class="box-button">
+    <img src="/assets/images/album/icons/favsicon.png" alt="favs">
+      <span>bandori favs</span>
+  </a>
+
+  <a href="./favs/" class="box-button">
+    <img src="/assets/images/album/icons/camcicon.png" alt="camcorder">
+      <span>camcorder vids</span>
+  </a>
+  
+  <a href="./favs/" class="box-button">
+    <img src="/assets/images/album/icons/picsicon.jpg" alt="photography">
+      <span>semi-serious photography</span>
+  </a>
+  
+  <a href="./favs/" class="box-button">
+    <img src="/assets/images/album/icons/sillicon.jpg" alt="sillies">
+      <span>silly time :3</span>
+  </a>
+  
+  <a href="./favs/" class="box-button">
+    <img src="/assets/images/album/icons/suipicon.png" alt="suipact">
+      <span>suipact screenshots</span>
+  </a>
+</div>

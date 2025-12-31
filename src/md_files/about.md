@@ -2,6 +2,8 @@
 layout: layout.md
 ---
 
+<meta name="description" content="about olivemoment!" />
+
 hi nice to meet you c: i'm olive sometimes known as olivemoment on social media *except insta and tumblr*  
 
 ### fast facts
@@ -22,7 +24,7 @@ HEY!!! YOU!!! if you like the quotebot and want to learn more come check [this s
 [insta (maybe)](https://tiktok.com/olive.moment/)  
 discord @olivemoment  
 idk i'll add more platforms as i think of them  
-also this site is [open source...](https://github.com/olivemoment/the_site/tree/main#) it's shit but it's open source... 
+also this site is [open source...](https://github.com/olivemoment/the_site/tree/main#) it's shit but it's open source...  
 if either this or the quotebot site is down email me olive@olivemoment.com 
 
 ### favs 

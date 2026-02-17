@@ -59,8 +59,4 @@ layout: layout.md
       <span>silly time :3</span>
   </a>
   
-  <a href="./suipact/" class="box-button">
-    <img src="/assets/images/album/icons/suipicon.png" alt="suipact">
-      <span>suipact screenshots</span>
-  </a>
 </div>

@@ -61,13 +61,21 @@ body{
   navigation: auto;
 }
 
-::view-transition-old(root),
-::view-transition-new(root) {
-  animation-duration: 0.3s;
-  background-color: #f2dce7; 
-  mix-blend-mode: normal;
+.linkbutton {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #e099b2;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  border: 2px outset #c9859d;
+  margin: 2px;
 }
 
+.linkbutton:hover {
+  background-color: #c9859d;
 }
 </style>
 <head>
@@ -93,13 +101,11 @@ body{
   ![himari](/assets/favicons/himafava.png)
   
   links:  
-  [take me home!!](/)  
-  [about me](/about)  
-  [photo album](/album)
-  [source](https://github.com/olivemoment/the_site/tree/main)  
-  [quotebot](https://quotebot.olivemoment.com/) 
-  
-  
+  <a href="/" class="linkbutton">go home!!</a>  
+  <a href="/about" class="linkbutton">about me</a>  
+  <a href="/album" class="linkbutton">photo album</a>  
+  <a href="https://github.com/olivemoment/the_site/tree/main" class="linkbutton">source</a>  
+  <a href="https://quotebot.olivemoment.com" class="linkbutton">quotebot</a>  
   
   </div>
   <div class="maincol">

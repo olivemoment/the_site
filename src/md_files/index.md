@@ -6,8 +6,6 @@ layout: layout.md
   <meta name="description" content="olive olivemoment" />
 
   # landing
-  
-  ![hello](/assets/favicons/himafava.png)
 
   hi everynyan! it's me olive olivemoment. i made a website cuz i think telling people i have a .com site is pretty cool. this page used to redirect to a straw page. unfortunately the new setup will not have gimmicks for now.... i'm sure it's easy to make but i'm lazy. i'm not really sure what i should do with this right now? 
   

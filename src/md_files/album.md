@@ -14,10 +14,11 @@ layout: layout.md
   cursor: pointer;        
   width: 250px;
   border-radius: 10px;
-  height: 250px;
+  height: 225px;
   flex-direction: column;
-  justify-content: center;
-  display: flex;
+  display: inline-flex;
+  padding-top: 25px;
+  margin-bottom: 10px;
   align-items: center;
 }
 
@@ -37,6 +38,8 @@ layout: layout.md
 <div class=button-container>
   hello... these are some of my most prized photos of my unofficial olivemoment collection... feel free to browse...
 </div>
+
+<br>
 
 <div class=button-container> 
   <a href="./favs/" class="box-button">

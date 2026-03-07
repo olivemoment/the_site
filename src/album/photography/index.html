@@ -22,7 +22,7 @@
   flex-grow: 1;
 }
 
-body{
+body{ 
   background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='20' height='20' patternTransform='scale(4) rotate(45)'><rect x='0' y='0' width='100%' height='100%' fill='%23f2dce7ff'/><path d='M0 0h10v10H0z'  stroke-width='1' stroke='none' fill='%23ffffffff'/><path d='M10 10h10v10H10z'  stroke-width='1' stroke='none' fill='%23ffffffff'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
   font-family:verdana;
   color:#450920;
@@ -51,21 +51,25 @@ body{
   border-radius: 10px;
   border: 3px outset #ffdbeb;
   padding:10px;
+  
+.top{
+  scroll-margin-top: 50px;
 }
-
+}
 </style>
+<head>
 <link rel="icon" href="/assets/favicons/himafava.png">
 <title>olivemoment</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="view-transition" content="same-origin" />
+</head>
 <header id="site_header">
 <h1>olivemoment</h1>
-<h3>&quot;himari uehara enthusiast&quot;</h3>
-<p><a href="/">take me home!!</a></p>
+<h3>&quot;we do a little bandori-ing here&quot;</h3>
   </header>
 <main>
 <div class="grid-container">
   <div class="infocol">
-  we do a little bandori-ing here
 <p><img src="/assets/favicons/himafava.png" alt="himari"></p>
 <p>links:<br>
 <a href="/">take me home!!</a><br>
@@ -73,17 +77,13 @@ body{
 <a href="/album">photo album</a>
 <a href="https://github.com/olivemoment/the_site/tree/main">source</a><br>
 <a href="https://quotebot.olivemoment.com/">quotebot</a></p>
-<p>they call me the himari uehara enthusiast</p>
   </div>
   <div class="maincol">
   <style>
-
-.divider{
-  border: 2px dashed #DA627D;
-  opacity: 1;
-  
-}
-
+<p>.divider{
+border: 2px dashed #DA627D;
+opacity: 1;</p>
+<p>}</p>
 </style>
 <h1>kinda shitty photography</h1>
   <p> <a href="../">  
@@ -123,6 +123,9 @@ body{
 </div>
 </main>
 <footer id="site_footer">
-<h3>wat should i do with this footer...</h3>
+<a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
+  jump to top
+</a>  
+<h3>they call me the himari uehara enthusiast</h3>
 </footer>
 </body>

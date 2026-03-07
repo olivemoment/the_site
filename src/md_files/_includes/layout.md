@@ -22,7 +22,7 @@
   flex-grow: 1;
 }
 
-body{
+body{ 
   background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='20' height='20' patternTransform='scale(4) rotate(45)'><rect x='0' y='0' width='100%' height='100%' fill='%23f2dce7ff'/><path d='M0 0h10v10H0z'  stroke-width='1' stroke='none' fill='%23ffffffff'/><path d='M10 10h10v10H10z'  stroke-width='1' stroke='none' fill='%23ffffffff'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
   font-family:verdana;
   color:#450920;
@@ -51,21 +51,23 @@ body{
   border-radius: 10px;
   border: 3px outset #ffdbeb;
   padding:10px;
+  
+.top{
+  scroll-margin-top: 50px;
 }
-
+}
 </style>
-
+<head>
 <link rel="icon" href="/assets/favicons/himafava.png">
 <title>olivemoment</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-
+<meta name="view-transition" content="same-origin" />
+</head>
+  
 <header id="site_header">
 
 # olivemoment   
-###  "himari uehara enthusiast"  
-
-[take me home!!](/)  
-  
+###  "we do a little bandori-ing here"  
   
   </header>
 
@@ -73,7 +75,6 @@ body{
 
 <div class="grid-container">
   <div class="infocol">
-  we do a little bandori-ing here
   
   ![himari](/assets/favicons/himafava.png)
   
@@ -84,13 +85,11 @@ body{
   [source](https://github.com/olivemoment/the_site/tree/main)  
   [quotebot](https://quotebot.olivemoment.com/) 
   
-  they call me the himari uehara enthusiast
+  
   
   </div>
   <div class="maincol">
-  
   {{ content }}
-  
   </div>
 </div>
 
@@ -98,7 +97,11 @@ body{
 
 <footer id="site_footer">
 
-### wat should i do with this footer...
+<a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
+  jump to top
+</a>  
+
+### they call me the himari uehara enthusiast
 
 </footer>
 

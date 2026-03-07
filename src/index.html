@@ -22,24 +22,69 @@
   flex-grow: 1;
 }
 
+body{
+  background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='20' height='20' patternTransform='scale(4) rotate(45)'><rect x='0' y='0' width='100%' height='100%' fill='%23f2dce7ff'/><path d='M0 0h10v10H0z'  stroke-width='1' stroke='none' fill='%23ffffffff'/><path d='M10 10h10v10H10z'  stroke-width='1' stroke='none' fill='%23ffffffff'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+  font-family:verdana;
+  color:#450920;
+  height:100%;
+  font-size:21;
+}
+  
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 7fr; 
+  padding: 50px;
+  gap: 20px;
+}
+
+.infocol{
+  background-color:#ffffff;
+  background-color: #ffe5f1;
+  border-radius: 10px;
+  border: 3px outset #ffdbeb;
+  padding:10px;
+}
+
+.maincol{
+  background-color:#ffffff;
+  background-color: #ffe5f1;
+  border-radius: 10px;
+  border: 3px outset #ffdbeb;
+  padding:10px;
+}
+
 </style>
 <link rel="icon" href="/assets/favicons/himafava.png">
 <title>olivemoment</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<body style="background-color:#FFC7D5;font-family:verdana;color:#450920;height:100%">
 <header id="site_header">
 <h1>olivemoment</h1>
 <h3>&quot;himari uehara enthusiast&quot;</h3>
 <p><a href="/">take me home!!</a></p>
   </header>
 <main>
-  <meta name="description" content="olive olivemoment" />
+<div class="grid-container">
+  <div class="infocol">
+  we do a little bandori-ing here
+<p><img src="/assets/favicons/himafava.png" alt="himari"></p>
+<p>links:<br>
+<a href="/">take me home!!</a><br>
+<a href="/about">about me</a><br>
+<a href="/album">photo album</a>
+<a href="https://github.com/olivemoment/the_site/tree/main">source</a><br>
+<a href="https://quotebot.olivemoment.com/">quotebot</a></p>
+<p>they call me the himari uehara enthusiast</p>
+  </div>
+  <div class="maincol">
+<p><meta name="description" content="olive olivemoment" /></p>
 <h1>landing</h1>
 <p><img src="/assets/favicons/himafava.png" alt="hello"></p>
 <p>hi everynyan! it's me olive olivemoment. i made a website cuz i think telling people i have a .com site is pretty cool. this page used to redirect to a straw page. unfortunately the new setup will not have gimmicks for now.... i'm sure it's easy to make but i'm lazy. i'm not really sure what i should do with this right now?</p>
 <p>btw go check out <a href="https://foid.ca">oomf chans website</a> she is making it using the same resources and setup as me cuz neither of us know what we're doing so we're just ping ponging off each other ^_^</p>
 <p>if you think this website is cool and awesome give me a thumbs up through the screen and follow me... MY SOCIAL MEDIAS ARE AVAILABLE ON MY <a href="/about">ABOUT!</a> yayyyy!!!!!!</p>
 <p>come check out my <a href="/album">photo album</a> full of my favorite photos :&gt;</p>
+  </div>
+</div>
 </main>
 <footer id="site_footer">
 <h3>wat should i do with this footer...</h3>

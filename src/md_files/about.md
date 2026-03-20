@@ -12,7 +12,7 @@ hi nice to meet you c: i'm olive sometimes known as olivemoment on social media 
 
 ### interests
 
-bandori, yuri, the mets, politics, caramel candid, gakkou gurashi, vocaloid, fortnite, himejoshi-ing, suipact gc, class of 09  
+bandori, yuri, the mets, politics, caramel candid, gakkou gurashi, vocaloid, fortnite, himejoshi-ing, class of 09  
 
 ### find me @
 

@@ -105,7 +105,8 @@ body{
   <a href="/about" class="linkbutton">about me</a>  
   <a href="/album" class="linkbutton">photo album</a>  
   <a href="https://github.com/olivemoment/the_site/tree/main" class="linkbutton">source</a>  
-  <a href="https://quotebot.olivemoment.com" class="linkbutton">quotebot</a>  
+  <a href="https://quotebot.olivemoment.com" class="linkbutton">quotebot (down)</a>  
+  <a href="hhttps://discord.gg/HCPZd4bH" class="linkbutton">tomori1 here</a>  
   
   </div>
   <div class="maincol">
